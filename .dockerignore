@@ -1,0 +1,7 @@
+.git/
+.superpowers/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+postgres_data/
